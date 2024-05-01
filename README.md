@@ -1,5 +1,6 @@
 # javascript
  Exercicios de JavaScript do Curso em Vídeo.
 
-<a href="documents/exercicios/javascript/exercicios/ex006">Ex 006</a>
+<a href="#">Ex 006 Botão de interação</a>
+<a href="#">Ex 007 Exercicio de somatoria de números</a>
 
